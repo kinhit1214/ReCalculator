@@ -161,7 +161,7 @@
         android:id="@+id/button_multiplication"
         style="@style/button_main_style"
         app:layout_constraintStart_toEndOf="@id/button_6"
-        app:layout_constraintTop_toBottomOf="@id/button_subtract"
+        app:layout_constraintTop_toBottomOf="@id/button_division"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintBottom_toTopOf="@id/button_division"/>
+        app:layout_constraintBottom_toTopOf="@id/button_subtract"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
